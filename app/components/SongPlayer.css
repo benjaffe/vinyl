@@ -1,0 +1,7 @@
+.player {
+  position: absolute;
+  top: 0;
+  pointer-events: none;
+  opacity: 0.3;
+  z-index: 10;
+}

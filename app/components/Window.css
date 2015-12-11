@@ -1,0 +1,19 @@
+.window {
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  width: 400px;
+  padding-bottom: 28%;
+  position: relative;
+}
+
+.background {
+  position: absolute;
+  top: 12%;
+  bottom: 12%;
+  left: 10%;
+  right: 10%;
+  z-index: -1;
+  background-image: url(/view1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
